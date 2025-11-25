@@ -7,8 +7,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Founder+%26+CEO;Building+Web%2C+Desktop+%26+Mobile+Solutions;React+%E2%80%A2+Next.js+%E2%80%A2+Electron.js+%E2%80%A2+Node.js)](https://git.io/typing-svg)
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dilawarkhaninfo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="dilawarkhaninfo" />
-    <img src="https://img.shields.io/github/followers/dilawarkhaninfo?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+    ![WhatsApp Image 2025-11-25 at 06 08 49_7ebbc03b](https://github.com/user-attachments/assets/1c08645e-a38c-4bda-9c80-7bdfd613cfd6)
+
+     <img src="https://img.shields.io/github/followers/dilawarkhaninfo?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   </p>
   
 </div>

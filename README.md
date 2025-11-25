@@ -1,16 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dilawar%20Khan&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Next.js%20%26%20Electron.js%20Specialist&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-</div>
+ 
 
 <div align="center">
+  
+  <!-- Professional Profile Image -->
+  <img width="200" style="border-radius: 50%; border: 5px solid #3B82F6;" alt="Dilawar Khan" src="https://github.com/user-attachments/assets/e399c4b9-1f55-428b-9ab0-bd48a7b0acdc" />
+  <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Founder+%26+CEO;Building+Web%2C+Desktop+%26+Mobile+Solutions;React+%E2%80%A2+Next.js+%E2%80%A2+Electron.js+%E2%80%A2+Node.js)](https://git.io/typing-svg)
   
   <p align="center">
-    ![WhatsApp Image 2025-11-25 at 06 08 49_7ebbc03b](https://github.com/user-attachments/assets/1c08645e-a38c-4bda-9c80-7bdfd613cfd6)
-
-     <img src="https://img.shields.io/github/followers/dilawarkhaninfo?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+    <img src="https://komarev.com/ghpvc/?username=dilawarkhaninfo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="dilawarkhaninfo" />
+    <img src="https://img.shields.io/github/followers/dilawarkhaninfo?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   </p>
+  
   
 </div>
 

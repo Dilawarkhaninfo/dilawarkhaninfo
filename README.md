@@ -17,35 +17,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-```typescript
-const dilawar = {
-    role: "Full Stack Developer & Entrepreneur",
-    company: "CascadingXol Private Limited",
-    position: "Founder & CEO",
-    location: "Islamabad, Pakistan",
-    experience: "3+ years",
-    
-    expertise: {
-        web: ["Next.js", "React", "TypeScript"],
-        mobile: ["React Native", "Expo"],
-        desktop: ["Electron.js"],
-        backend: ["Node.js", "Express", "MongoDB"],
-        design: ["Tailwind CSS", "shadcn/ui", "Framer Motion"]
-    },
-    
-    currentFocus: [
-        "Building scalable marketplace applications",
-        "AI & automation solutions",
-        "Cross-platform development",
-        "Growing CascadingXol globally"
-    ],
-    
-    availableFor: "Freelance Projects & Collaborations"
-};
-```
-
-<br clear="right"/>
+ 
 
 ### 💼 **What I Do**
 - 🌐 **Web Development** - Modern, responsive applications with Next.js & React

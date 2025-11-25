@@ -17,7 +17,30 @@
 
 ## 🚀 About Me
 
- 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+**Full Stack Developer & Entrepreneur** with 3+ years of specialized experience in building scalable cross-platform solutions.
+
+**👨‍💼 Current Role:** Founder & CEO at **CascadingXol Private Limited**  
+**📍 Location:** Islamabad, Pakistan  
+**💼 Experience:** 3+ years in Next.js, React & TypeScript
+
+### 🎯 Expertise
+- **🌐 Web:** Next.js, React, TypeScript
+- **📱 Mobile:** React Native, Expo  
+- **💻 Desktop:** Electron.js
+- **⚙️ Backend:** Node.js, Express, MongoDB
+- **🎨 Design:** Tailwind CSS, shadcn/ui, Framer Motion
+
+### 🚀 Current Focus
+- Building scalable marketplace applications
+- AI & automation solutions
+- Cross-platform development
+- Growing CascadingXol globally
+
+**✅ Available for Freelance Projects & Collaborations**
+
+<br clear="right"/>
 
 ### 💼 **What I Do**
 - 🌐 **Web Development** - Modern, responsive applications with Next.js & React
